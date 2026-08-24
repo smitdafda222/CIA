@@ -1,0 +1,16 @@
+{
+  "name": "cia",
+  "version": "1.0.0",
+  "description": "**Student Roll Number**: `24ce021`   **GitHub Repository**: `https://github.com/smitdafda222/CIE`   **Tech Stack**: React (frontend) + Express.js (backend) + MongoDB with Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.62.1"
+  }
+}

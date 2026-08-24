@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #121316;
+  color: #e2e8f0;
+}
+
+/* Custom scrollbars and styling matching AAa.pdf screenshots */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #18191c;
+}
+::-webkit-scrollbar-thumb {
+  background: #2d2f36;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f97316;
+}
